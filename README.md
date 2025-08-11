@@ -41,7 +41,7 @@ A REST API for a Pizza delivery service built for fun and learning with **FastAP
    cd pizza-delivery-api
    ```
 
-2. **Create and activate virtual environment**
+2. **Create and activate virtual environment (venv)**
    
    Using `pipenv`:
    ```bash
