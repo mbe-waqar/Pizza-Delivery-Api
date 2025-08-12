@@ -5,7 +5,7 @@ A REST API for a Pizza delivery service built for fun and learning with **FastAP
 ## 🛠️ Tech Stack
 
 - **FastAPI** - Modern, fast web framework for building APIs
-- **SQLAlchemy** - SQL toolkit and Object-Relational Mapping (ORM)
+- **SQLAlchemy** - SQL toolkit and Object-Relational Mapping
 - **PostgreSQL** - Open source relational database
 - **Python 3.8+** - Programming language
 
